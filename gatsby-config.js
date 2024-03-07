@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Sydney Ecommerce Theme`,
+    title: `SM MAKERS`,
     siteUrl: `https://jamm.matter.design`,
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Sydney Ecommerce Theme`,
-        short_name: `Sydney`,
+        name: `SM MAKERS`,
+        short_name: `SM`,
         start_url: `/`,
         background_color: `#000000`,
         theme_color: `#ffffff`,
